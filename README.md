@@ -77,10 +77,3 @@ Data is stored in SQLite for easy setup.
 - List, update, and delete all entries.
 - Search products by name or by farmer location.
 
-## Support/Contact
-
-For help or feedback, open an issue or email: rtcch@example.com
-
-## License
-
-MIT License
